@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/classes-9aa0dace3070b520790b0567ed87ea20d2e8f3dc.jar" />
+    </item>
+    <item
+        jar="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-bc145bce2e03bbd99fa79335a2b500e87169d1c6.jar" />
+    </item>
+    <item
+        jar="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/classes-6115c290450645c5fdfc351145a90190a3d260b9.jar" />
+    </item>
+    <item
+        jar="/Users/palash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-7e0f830b329b4781b6b19fa59f932e27fac0b4a1.jar" />
+    </item>
+    <item
+        jar="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/classes-210afec26164fff538dda36385a33f821ec322a6.jar" />
+    </item>
+    <item
+        jar="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/palash/Downloads/android_apps/JobScheduler/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-5054fc86a31f13cb3bfde71a56c69fac71cf28bf.jar" />
+    </item>
+
+</items>
